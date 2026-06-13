@@ -1,6 +1,16 @@
-## Hi there 👋
+Hi, I'm Anish Narigra 👋
 
-<!--
+🔐 Cybersecurity Enthusiast
+🐍 Python Developer
+💻 Kali Linux Learner
+
+Projects:
+• NetworkSniffer
+• PortScanner
+• FastScanner
+• PasswordChecker
+• LogAnalyzer
+• NetworkScanner<!--
 **Anishnarigra18/Anishnarigra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
